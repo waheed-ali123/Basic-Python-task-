@@ -1,4 +1,27 @@
-# Basic-Python-task-
+# Question No1 - Payroll Calculator
 
+A Python program that asks the user to enter the number of hours worked and
+the hourly rate, then calculates the total pay.
 
-I am an AI Part 1 student (Roll No. 96) at the Department of Artificial Intelligence, University of Sindh. This repository contains my completed basic Python task assigned by my teacher, Miss Safia Shaikh, for the Internet of Things (IoT) course. It demonstrates my practical learning and understanding of the course concepts.
+## Rules
+- If the employee works 40 hours or less, pay = `hours x rate`.
+- If the employee works more than 40 hours, the first 40 hours are paid at
+  the normal rate, and the overtime hours are paid at 1.5 times the hourly
+  rate.
+- The total pay is displayed at the end.
+
+## How to Run
+```
+python pay_calculator.py
+```
+
+## Example
+```
+Enter the number of hours worked: 45
+Enter the hourly rate: 20
+
+----- Pay Summary -----
+Hours Worked : 45.0
+Hourly Rate  : 20.0
+Total Pay    : 950.00
+```
