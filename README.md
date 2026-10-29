@@ -56,3 +56,11 @@ python3 q5_multiplication_tables.py
 
 **Waheed Ali**
 Roll No: 96
+
+
+## Dictionary and Set Tasks
+
+| File | Description |
+|------|-------------|
+| `dictionary_tasks.py` | Dictionary questions: counting numbers without count(), finding toppers, swapping keys and values, and grouping words by first letter |
+| `set_tasks.py` | Set questions: creating sets, removing duplicates, add/remove, membership check, set length, and union, intersection, difference, symmetric difference |
